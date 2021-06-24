@@ -20,7 +20,7 @@ Setup Instructions:
      
 6. Clone this repository into your master node.
    
-   `git clone https://github.com/Kawsar060/test.git`
+   `git clone https://github.com/Kawsar060/BS_LAB_TEST.git`
    
    once it is cloned, get into the directory
    
